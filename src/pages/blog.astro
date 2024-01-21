@@ -14,9 +14,12 @@ const pageTitle = "Mi blog de Astro aprendizaje";
 	<h1>{pageTitle}</h1>
 
 	<p>Aquí es donde publicaré acerca de mi viaje aprendiendo Astro.</p>
+	
 
 	<ol>
-		{allPosts.map((post) => <BlogPost url={post.slug} title={post.data.title} />)}
+		{allPosts.map((post) =>
+			 <BlogPost url={`/posts/${post.slug}/`} title={post.data.title} />
+		)}
 
 	</ol>
 

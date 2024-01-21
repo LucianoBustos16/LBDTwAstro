@@ -2,12 +2,13 @@
 
 import BaseLayout from '../layouts/BaseLayout.astro'
 const { frontmatter } = Astro.props;
+import { fade } from "astro:transitions";
 ---
 
 <BaseLayout>
     <h1>{frontmatter.title}</h1>
     <p>{frontmatter.pubDate.toString().slice(0,10)}</p>
-    <p><em>{frontmatter.description}</em></p>
+    <p ><em>{frontmatter.description}</em></p>
     <p style="color: red">Escrito por {frontmatter.author}</p>
     <img src={frontmatter.image.url} width="300" alt={frontmatter.image.alt} />
 
