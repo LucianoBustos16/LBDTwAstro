@@ -8,8 +8,9 @@ import { fade } from "astro:transitions";
 <BaseLayout>
     <h1>{frontmatter.title}</h1>
     <p>{frontmatter.pubDate.toString().slice(0,10)}</p>
-    <p ><em>{frontmatter.description}</em></p>
-    <p style="color: red">Escrito por {frontmatter.author}</p>
+    <p transition:animate={fade({ duration: '2s' })} ><em>{frontmatter.description}</em></p>
+    
+    <p style="color: red">Escrito por: <a href="/about">{frontmatter.author}</a></p>
     <img src={frontmatter.image.url} width="300" alt={frontmatter.image.alt} />
 
     <div class="tags">
