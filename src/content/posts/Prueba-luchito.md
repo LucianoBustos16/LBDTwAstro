@@ -1,13 +1,14 @@
 ---
-title: Una prueba
-author: Luchito
-description: "Estoy probando esto."
+title: Una Prueba
+author: Alumno de Astro
+description: "Después de aprender un poco de Astro, ¡no podía parar!"
 image:
-    url: "[https://docs.astro.build/assets/rays.webp](https://www.lavoz.com.ar/resizer/jkk0c25WDcBPh2eeGP01c2tWSnc=/980x640/smart/filters:quality(75):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/MXVB4J5EWNE2FKSJ6WOGNMODOA.jpg)"
-    alt: "El Luifa."
-pubDate: 2024-01-24
-tags: ["noticia"]
+    url: "https://docs.astro.build/assets/arc.webp"
+    alt: "Miniatura de los arcos de Astro."
+pubDate: 2022-07-08
+tags: ["astro", "bloguear", "aprender en público", "éxitos"]
 ---
+
 ## Este es el titulo
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ligula tortor, congue at leo in, eleifend fringilla sapien. Nam et efficitur arcu. Vestibulum sed nunc at nunc aliquet ultrices vitae eu leo. Vestibulum id diam sed quam tincidunt ultricies non eget sem. Duis molestie tellus tortor, id pulvinar odio blandit in. Nullam mollis sollicitudin pellentesque. [Vivamus posuere ornare fermentum. Vestibulum ultricies pulvinar vulputate. Sed quis tincidunt mi.](lbdtw.com.ar) Sed aliquet sed turpis sit amet fringilla. Aliquam efficitur placerat odio ac placerat. Pellentesque sagittis orci sed enim fermentum, vitae vulputate arcu tempus. Fusce cursus luctus ipsum et bibendum. Nulla malesuada laoreet eros quis ultricies. Nulla tincidunt, erat nec dapibus congue, tortor nibh feugiat tortor, ut gravida massa justo id magna.
 
