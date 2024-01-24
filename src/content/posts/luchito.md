@@ -3,6 +3,15 @@
 
 ---
 
+<hr>
+<h2 id="title-mi-primera-chambapubdate-2024-01-20description-este-es-la-primera-publicación-de-mi-nuevo-blog-astro.author-alumno-de-astroimageurl-httpsdocs.astro.buildassetsfull-logo-light.pngalt-el-logotipo-completo-de-astro.tags-bloguear-aprender-en-público">title: ‘Mi primera Chamba’<br>
+pubDate: 2024-01-20<br>
+description: ‘Este es la primera publicación de mi nuevo blog Astro.’<br>
+author: ‘Alumno de Astro’<br>
+image:<br>
+url: ‘<a href="https://docs.astro.build/assets/full-logo-light.png">https://docs.astro.build/assets/full-logo-light.png</a>’<br>
+alt: ‘El logotipo completo de Astro.’<br>
+tags: [“bloguear”, “aprender en público”]</h2>
 <h1 id="este-es-el-titulo">Este es el titulo</h1>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ligula tortor, congue at leo in, eleifend fringilla sapien. Nam et efficitur arcu. Vestibulum sed nunc at nunc aliquet ultrices vitae eu leo. Vestibulum id diam sed quam tincidunt ultricies non eget sem. Duis molestie tellus tortor, id pulvinar odio blandit in. Nullam mollis sollicitudin pellentesque. <a href="lbdtw.com.ar">Vivamus posuere ornare fermentum. Vestibulum ultricies pulvinar vulputate. Sed quis tincidunt mi.</a> Sed aliquet sed turpis sit amet fringilla. Aliquam efficitur placerat odio ac placerat. Pellentesque sagittis orci sed enim fermentum, vitae vulputate arcu tempus. Fusce cursus luctus ipsum et bibendum. Nulla malesuada laoreet eros quis ultricies. Nulla tincidunt, erat nec dapibus congue, tortor nibh feugiat tortor, ut gravida massa justo id magna.</p>
 <h2 id="ut-luctus-ligula-neque-quis-cursus-purus-facilisis-suscipit.">Ut luctus ligula neque, quis cursus purus facilisis suscipit.</h2>
